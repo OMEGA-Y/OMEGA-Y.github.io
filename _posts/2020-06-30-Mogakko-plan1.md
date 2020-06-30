@@ -1,4 +1,7 @@
-<h1> 모각코 1회차 목표 및 결과
-<h4>목표 : GitHub 사용방법 익히기 및 PyTorch 관련 세팅</
+---
+layout: post
+title: "모각코 1회차"
+---
+#목표 : GitHub 사용방법 익히기 및 PyTorch 관련 세팅
 
-<h4>결과 : </h4>
+<h1>결과 : </h1>
