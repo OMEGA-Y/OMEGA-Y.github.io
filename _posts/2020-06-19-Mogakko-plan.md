@@ -2,7 +2,7 @@
 layout: post
 title: "모각코 목표 및 회차별 계획"
 ---
-# 목표 : PyTorch 학습
+# 목표 : PyTorch로 딥러닝하기
 
 ### 계획
 #### 1회차 - GitHub 사용방법 익히기
